@@ -1,0 +1,24 @@
+{
+  "name": "webscrapping",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaid5548/webscrapping.git"
+  },
+  "author": "Zaid Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zaid5548/webscrapping/issues"
+  },
+  "homepage": "https://github.com/zaid5548/webscrapping#readme",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "request": "^2.88.2"
+  }
+}
